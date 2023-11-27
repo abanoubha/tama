@@ -5,4 +5,5 @@ A rich text editor. The word "tama" means "word" in Egyptian language and writte
 ## resources
 
 - [flutter quill](https://github.com/singerdmx/flutter-quill)
-- [appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor)
+- [appflowy editor](https://github.com/AppFlowy-IO/appflowy-editor)
+- [dahliaOS text editor)](https://github.com/dahliaOS/text_editor)
